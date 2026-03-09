@@ -159,7 +159,7 @@ import { PdfReportService } from '../../services/pdf-report.service';
 
               <div class="footer-text">
                 <p>
-                  <strong>Version:</strong> 1.0.0 | <strong>Built with:</strong> ❤️ using Angular 19
+                  <strong>Version:</strong> 1.0.0 | <strong>Built with:</strong> ❤️ using Angular 19 | <strong>Maintained by:</strong> Abhinandan | <strong>Deployed to:</strong> GitHub Pages
                 </p>
               </div>
             </mat-card>
